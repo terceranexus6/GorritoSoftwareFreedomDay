@@ -1,4 +1,4 @@
-#¿Software freedom day?
+# ¿Software freedom day?
 
 Este día se celebra [mundialmente](https://www.softwarefreedomday.org/), este año es el día **16 de Septiembre** (sábado) y tiene como objetivo realzar el papel del software libre en nuestra sociedad. 
 
