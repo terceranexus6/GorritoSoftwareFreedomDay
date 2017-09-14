@@ -1,6 +1,6 @@
 # Gorrito para el Software Freedom Day
 
-Sin duda el Open Software Freedom Day es un día para celebrar. Y la mejor celebración es con un gorrito. En este repo encontrarás un documento con info sobre la historia de GNU, links relevantes para el software libre, un documento pdf para imprimir para hacerse un gorrito tan chuli como el de la foto (la versión 2.0) y la imagen png transparente por si quieres usarla para lo que sea.
+Sin duda el **Software Freedom Day** es un día para celebrar. Y la mejor celebración es con un gorrito. En este repo encontrarás un documento con info sobre la historia de **GNU**, links relevantes para el software libre, un documento pdf para imprimir para hacerse un gorrito tan chuli como el de la foto (la versión 2.0) y la imagen png transparente por si quieres usarla para lo que sea.
 
 ![](https://pbs.twimg.com/media/DI36jV1XUAAR6vI.jpg:large) 
 
